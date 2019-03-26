@@ -7,7 +7,4 @@ Currently, our neural network is able to replicate the subset parity function on
 (Schematic of proposed quantum neural network, taken from arXiv 1802.06002)
 
 This notebook has the following dependencies:
-Python 3
-numpy 1.14.6
-cirq 0.4.0
-scipy 1.1.0
+Python 3, numpy 1.14.6, cirq 0.4.0, scipy 1.1.0
